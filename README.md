@@ -20,5 +20,5 @@ We propose to decentralize and scale up the computation of the Xerberus Risk Rat
 - Substrate Framework Usage
 - Risk Model Infusion Technical Explanation
 
-#### 3️⃣ [A simple Xerberus Node for Initial Testing]() 
+#### 3️⃣ A simple Xerberus Node for Initial Testing
 - Basic Running Node
