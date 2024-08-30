@@ -1,4 +1,6 @@
-# Xerberus Nodes 
+# Xerberus Nodes <img src="https://github.com/user-attachments/assets/930f6e7e-49c5-4372-8b92-2e7d82e5dad2" alt="node" width="80" height="40"/>
+
+
 
 Our Risk Ratings effectively guide investors, but the Risk Rating computation is centralized. This trust-based arrangement gives us the power to alter scores at will, which is unacceptable. 
 </br>
