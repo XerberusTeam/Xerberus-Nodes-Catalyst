@@ -8,13 +8,13 @@ We propose to decentralize and scale up the computation of the Xerberus Risk Rat
 
 ## 🗄 Repository Table of Content
 ### 🛠️ Nodes Development 
-#### 1️⃣ [Planning & Project Kick-off]() ✅
+#### 1️⃣ [Planning & Project Kick-off](https://docsend.com/view/48yjrdeaid3u4drd) ✅
 - Building Team
 - High-level Architecture
 - Technical Roadmap
-- Ressources
+- Resources
 
-#### 2️⃣ [Paper on the Xerberus Node]() ✅
+#### 2️⃣ [Paper on the Xerberus Node](https://docsend.com/view/qzevbnhr5guutdjx) ✅
 - Hardware Requirements
 - Architecture Design
 - Substrate Framework Usage
